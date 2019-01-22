@@ -1,40 +1,5 @@
 # Parallel
 
-## Grant Application
-
-This application is (select one):
-- [ ] Speculative (use this by default)
-- [ ] an RFP response
-
-
-###
-
-This application is (select one):
-- [ ] Public (fully)
-- [ ] Public with private finances
-
-
-### Abstract
-
-Develop JSON-RPC API for mobile client use and wallet related usecases. Our focus will be on mobile api, payments api, send and sign api, account management. Add significantly to the developer documentation. Wallet will be made to showcase our works.
-
-## Checklist
-- [ ] The [grants](https://github.com/w3f/Web3-collaboration/blob/master/grants/grants.md) document has been read and understood.
-- [ ] The [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform) will be completed accurately. Note that the Google Form requires the pull request URL.
-- [ ] Abstract (above) is succinct and complete.
-- [ ] The application is being included into the correct directory: either '[targeted](https://github.com/w3f/Web3-collaboration/tree/master/grants/targeted)' or '[speculative](https://github.com/w3f/Web3-collaboration/tree/master/grants/speculative)'.
-- [ ] The application includes a project description.
-- [ ] The application includes all names of team members.
-- [ ] The application includes a description of the team's experience.
-- [ ] The application includes all necessary GitHub and LinkedIn links.
-- [ ] The application specifies the development language and the reason for choosing it.
-- [ ] The "Development Roadmap" section in the application has a timeline of development.
-- [ ] The "Development Roadmap" section in the application has an estimate of funds required.
-- [ ] The "Development Roadmap" section gives an indication of the team's long term plans.
-
-
-
-
 
 ## Project Description
 
